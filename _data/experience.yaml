@@ -1,5 +1,12 @@
 experiences:
 
+- place: "University of Nebraska-Lincoln"
+  time: "Sep 2023 - now"
+  title: "M.S. Student"
+  subtitle: "Advisor: <a href='https://engineering.unl.edu/durhamschool/faculty/milad-roohi/'>Dr. Milad Roohi</a> <br/> Architectural Engineering"
+  category: "school"
+
+
 - place: "QD-SBG Construction"
   time: "May 2022 - now"
   title: "Design Coordinator"
