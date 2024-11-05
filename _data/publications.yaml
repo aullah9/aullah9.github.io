@@ -1,0 +1,96 @@
+papers:
+
+  - title: "Review of Analytical and Empirical Estimations for Incident Blast Pressure"
+    authors: "<b>Aleem Ullah</b>, Furqan Ahmad, Heung Woon Jang, Sung-Wook Kim, and Jung Wuk Hong"
+    venue: "KSCE Journal of Civil Engineering, 2017"
+    paper_pdf: "https://link.springer.com/article/10.1007/s12205-016-1386-4"
+    # code: "https://github.com/divelab/GraphBP"
+    img: "/assets/imgs/pub_blast.png"
+    selected: y
+    # note: "<b style='color:red !important;'>Oral/Long Presentation</b> (118/5630=2.1% acceptance rate)"
+    # note: "<b>Oral/Long Presentation</b> (118/5630=2.1% acceptance rate)"
+
+  #- title: "Review of Analytical and Empirical Estimation of Blast Effect"
+  #  authors: "<b>Aleem Ullah</b>, Jung Wuk Hong"
+  #  venue: "International Conference On Computational and Experimental Engineering (<b>ICCEES</b>), 2014"
+  #  paper_pdf: "https://koasas.kaist.ac.kr/handle/10203/222582"
+  #  #code: "https://github.com/divelab/MoleculeX/tree/molx/AdvProp"
+  #  #supplement: "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/PAP/10.1093_bioinformatics_btac112/1/btac112_supplementary_data.pdf?Expires=1648239547&Signature=eWeGB10TLZc9UVmVaCNrfiZ-M6MbHAiu60DoGHF~epwdvkyF19xe0nsSBTcqjuyiOEh0oZNjrAqEsnPgMn~tXqodt9N~U22G6wVPenoHTYQoqBHAoXoKgQ~JG2js7Vt5cWDjdomY9AmxfC0L78P6QOFFpuCZXb3XR31zDKStXz2FFCotov3Bz8O6X2YG6XRsY5GrFIR0WKpcz8dRnusXLFLLlcaERDcR1S2ShAxnPV5Yeb~xlCWYat5nSMr5MbXsGihg5eR2HQD3VmD8RSvGUSIrEpbP5aIsk7GrTdbazDYFe5ccdImOxYMC6e2NlA22Kp0vtV0yCmMvAqcjXFeOQQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+  #  img: "/assets/imgs/conf_blast.png"
+  #  selected: y
+  #  note: "<b style='color:red !important;'> Rank #1 on <a href='https://www.aicures.mit.edu'>AI Cures open challenge for COVID-19</a> </b>"
+
+  - title: "Review of analytical and empirical estimations of blast effect"
+    authors: "<b>Aleem Ullah</b> and Jung Wuk Hong"
+    venue: "International Conference On Computational and Experimental Engineering (<b>ICCEES</b>), 2014"
+    paper_pdf: "https://koasas.kaist.ac.kr/handle/10203/222582"
+    # code: "https://github.com/divelab/DIG/blob/dig/examples/threedgraph/threedgraph.ipynb"
+    img: "/assets/imgs/conf_blast.jpg"
+    selected: y
+    
+  - title: "Validation of LS-DYNA LBE with Analytical and Empirical Estimations of Incident Blast Pressure"
+    authors: "<b>Aleem Ullah</b> and Jung Wuk Hong"
+    venue: "The Twenty-Seventh KKHTCNN Syposium on Civil Engineering, 2014"
+    paper_pdf: "https://www.researchgate.net/publication/353325419_Validation_of_LS-DYNA_LBE_with_Analytical_and_Empirical_Estimations_of_Incident_Blast_Pressure"
+    # code: "https://github.com/divelab/Neighbor2Seq"
+    # supplement: "https://github.com/divelab/Neighbor2Seq/blob/main/Neighbor2Seq_SDM2022_supp.pdf"
+    img: "/assets/imgs/conf_valid.jpg"
+    selected: y
+
+  - title: "RC Beam-Column joint models for progressive collapse simulation"
+    authors: "<b>Aleem Ullah</b>, Jung Jaewook, and Jung Wuk Hong"
+    venue: "KIBSE Annual Meeting and Conference, 2014"
+    paper_pdf: "https://www.researchgate.net/publication/353331166_Review_of_RC_beam_column_joint_models_in_progressive_collapse"
+    #code: "https://github.com/divelab/Non-Local-GNN"
+    #literature_collection: "https://github.com/mengliu1998/DL4DisassortativeGraphs"
+    img: "/assets/imgs/conf_joint.jpg"
+    selected: y
+
+  - title: "Collapse Analysis of Reinforced Concrete Beam-Column Structures"
+    authors: "Dias Bakhtiyarov*,<b>Aleem Ullah*</b>, Jae Wook Jung and Jung Wuk Hong"
+    venue: "<b>COSEIK</b> Annual Conference, 2016"
+    paper_pdf: "https://www.researchgate.net/publication/364358087_Collapse_Analysis_of_Reinforced_Concrete_Beam-Column_Structures"
+    #code: "https://github.com/divelab/MoleculeX"
+    img: "/assets/imgs/conf_beamcol.jpg"
+    selected: y 
+    #note: "<b style='color:red !important;'>Awardee of KDD Cup 2021 on <a href='https://ogb.stanford.edu/kddcup2021/'>OGB-LSC</a> </b>"
+
+  #- title: "DIG: A Turnkey Library for Diving into Graph Deep Learning Research"
+  #  authors: "<b>Meng Liu*</b>, Youzhi Luo*, Limei Wang*, Yaochen Xie*, Hao Yuan*, Shurui Gui*, Haiyang Yu*, Zhao Xu, Jingtun Zhang, Yi Liu, Keqiang Yan, Haoran Liu, Cong Fu, Bora Oztekin, Xuan Zhang, and Shuiwang Ji"
+  #  venue: "Journal of Machine Learning Research (<b>JMLR</b>), 2021"
+  #  paper_pdf: "https://jmlr.org/papers/v22/21-0343.html"
+  #  code: "https://github.com/divelab/DIG"
+  #  code_star: "https://img.shields.io/github/stars/divelab/DIG?style=social"
+  #  documentation: "https://diveintographs.readthedocs.io/en/latest/"
+  #  img: "/assets/imgs/DIG-logo.jpg"
+  #  selected: y
+
+  #- title: "GraphEBM: Molecular Graph Generation with Energy-Based Models"
+  #  authors: "<b>Meng Liu</b>, Keqiang Yan, Bora Oztekin, and Shuiwang Ji"
+  #  venue: "<b>EBM Workshop at ICLR</b>, 2021"
+  #  paper_pdf: "https://arxiv.org/abs/2102.00546"
+  #  code: "https://github.com/divelab/DIG/blob/dig/examples/ggraph/GraphEBM"
+  #  img: "/assets/imgs/graphebm_training.png"
+  #  selected: y
+
+  #- title: "Towards Deeper Graph Neural Networks"
+  #  authors: "<b>Meng Liu</b>, Hongyang Gao, and Shuiwang Ji"
+  #  venue: "ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (<b>KDD</b>), 2020"
+  #  paper_pdf: "https://dl.acm.org/doi/abs/10.1145/3394486.3403076"
+  #  code: "https://github.com/mengliu1998/DeeperGNN"
+  #  code_star: "https://img.shields.io/github/stars/mengliu1998/DeeperGNN?style=social"
+  #  literature_collection: "https://github.com/mengliu1998/awesome-deep-gnn"
+  #  literature_collection_star: "https://img.shields.io/github/stars/mengliu1998/awesome-deep-gnn?style=social"
+  #  img: "/assets/imgs/DAGNN.jpg"
+  #  selected: y
+    
+
+    
+
+    
+
+    
+    
+    
+
+

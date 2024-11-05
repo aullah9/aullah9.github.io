@@ -1,0 +1,40 @@
+experiences:
+
+- place: "QD-SBG Construction"
+  time: "May 2022 - now"
+  title: "Design Coordinator"
+  subtitle: "Engineering Department"
+  category: "work"
+  
+  
+- place: "Redco Internaional"
+  time: "Nov 2016 - Dec 2021"
+  title: "Structural Engineer"
+  subtitle: "Design Department"
+  category: "work"
+  
+- place: "EGC - SMEC International"
+  time: "Apr 2016 - Oct 2016"
+  title: "Jr. Structural Engineer"
+  subtitle: "Design Review/Supervision"
+  category: "work"
+  
+  
+- place: "KAIST"
+  time: "Sep 2013 - Feb 2016"
+  title: "M.S. Student"
+  subtitle: "Advisor: <a href='https://civil.kaist.ac.kr/boards/view/people_en/55/sc_category/1?lang=korean'>Prof. Jung Wuk Hong</a> <br/> Structural Engineering"
+  category: "school"
+  
+- place: "NLC"
+  time: "Jun 2012 - Aug 2013"
+  title: "Jr. Engineer"
+  subtitle: "Planning & Acquisition Department"
+  category: "work"
+
+- place: "NUST"
+  time: "Sep 2008 - May 2012"
+  title: "B.E. Student"
+  subtitle: "Advisor: Prof. Col Mansoor Qureshi </a> <br/> Structural Engineering"
+  category: "school"
+
