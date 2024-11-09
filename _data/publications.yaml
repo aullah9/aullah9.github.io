@@ -1,5 +1,15 @@
 papers:
 
+  - title: "Model Class and Parameter Selection for Bayesian Filtering with Application to a Modular Active Spring-Damper System: Round-Robin Challenge"
+    authors: "<b>Aleem Ullah</b>, and Milad Roohi"
+    venue: "Model Validation and Uncertainty Quantification, Vol. 3. IMAC 2024. Conference Proceedings of the Society for Experimental Mechanics Series., 2025"
+    paper_pdf: "https://link.springer.com/chapter/10.1007/978-3-031-68893-5_21"
+    # code: "https://github.com/divelab/GraphBP"
+    img: "/assets/imgs/round_robin.png"
+    selected: y
+    # note: "<b style='color:red !important;'>Oral/Long Presentation</b> (118/5630=2.1% acceptance rate)"
+    # note: "<b>Oral/Long Presentation</b> (118/5630=2.1% acceptance rate)"
+
   - title: "Review of Analytical and Empirical Estimations for Incident Blast Pressure"
     authors: "<b>Aleem Ullah</b>, Furqan Ahmad, Heung Woon Jang, Sung-Wook Kim, and Jung Wuk Hong"
     venue: "KSCE Journal of Civil Engineering, 2017"
